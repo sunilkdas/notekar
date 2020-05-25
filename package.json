@@ -1,0 +1,23 @@
+{
+  "name": "offnotes",
+  "version": "1.0.0",
+  "description": "offline note taking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "nodemon": "^2.0.4",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "skd",
+  "license": "ISC"
+}
