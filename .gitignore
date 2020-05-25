@@ -96,7 +96,7 @@ dist
 
 # FuseBox cache
 .fusebox/
-git remote add origin https://github.com/sunilkdas/notekar.git
+
 # DynamoDB Local files
 .dynamodb/
 
